@@ -1,0 +1,17 @@
+../facepy/__init__.py
+../facepy/exceptions.py
+../facepy/graph_api.py
+../facepy/signed_request.py
+../facepy/utils.py
+../facepy/__init__.pyc
+../facepy/exceptions.pyc
+../facepy/graph_api.pyc
+../facepy/signed_request.pyc
+../facepy/utils.pyc
+./
+dependency_links.txt
+not-zip-safe
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt
